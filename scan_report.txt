@@ -1,13 +1,93 @@
 Directory Scan Report
 Target Path : D:\Downloads\internship-task-directory-scanner
-Scanned On  : 2026-07-10 19:30:46
+Scanned On  : 2026-07-10 19:35:56
 ======================================================================
 
 [FOLDER] .
    [FILE] directory_scanner.py                | Size: 5.02 KB    | Ext: .py        | Modified: 2026-07-10 19:30:38
+   [FILE] README.md                           | Size: 925.00 B   | Ext: .md        | Modified: 2026-07-10 19:31:53
+   [FILE] scan_report.txt                     | Size: 490.00 B   | Ext: .txt       | Modified: 2026-07-10 19:30:46
+
+[FOLDER] .\.git
+   [FILE] COMMIT_EDITMSG                      | Size: 44.00 B    | Ext: (no extension) | Modified: 2026-07-10 19:34:51
+   [FILE] config                              | Size: 333.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:33:11
+   [FILE] description                         | Size: 73.00 B    | Ext: (no extension) | Modified: 2026-07-10 19:32:56
+   [FILE] HEAD                                | Size: 21.00 B    | Ext: (no extension) | Modified: 2026-07-10 19:33:05
+   [FILE] index                               | Size: 305.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:34:51
+
+[FOLDER] .\.git\hooks
+   [FILE] applypatch-msg.sample               | Size: 478.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] commit-msg.sample                   | Size: 896.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] fsmonitor-watchman.sample           | Size: 4.62 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] post-update.sample                  | Size: 189.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-applypatch.sample               | Size: 424.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-commit.sample                   | Size: 1.61 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-merge-commit.sample             | Size: 416.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-push.sample                     | Size: 1.34 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-rebase.sample                   | Size: 4.78 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] pre-receive.sample                  | Size: 544.00 B   | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] prepare-commit-msg.sample           | Size: 1.46 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] push-to-checkout.sample             | Size: 2.72 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] sendemail-validate.sample           | Size: 2.25 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+   [FILE] update.sample                       | Size: 3.56 KB    | Ext: .sample    | Modified: 2026-07-10 19:32:56
+
+[FOLDER] .\.git\info
+   [FILE] exclude                             | Size: 240.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:32:56
+
+[FOLDER] .\.git\logs
+   [FILE] HEAD                                | Size: 663.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:33:05
+
+[FOLDER] .\.git\logs\refs
+
+[FOLDER] .\.git\logs\refs\heads
+   [FILE] main                                | Size: 454.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:33:05
+
+[FOLDER] .\.git\logs\refs\remotes
+
+[FOLDER] .\.git\logs\refs\remotes\origin
+   [FILE] main                                | Size: 173.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:33:11
+
+[FOLDER] .\.git\objects
+
+[FOLDER] .\.git\objects\13
+   [FILE] 9df0812dc38607cc7d8a2de391c5cdbf662449 | Size: 136.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:32:57
+
+[FOLDER] .\.git\objects\71
+   [FILE] a2fa48f2ddaf47614c205c58570ef3cb7c9d54 | Size: 192.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:32:57
+
+[FOLDER] .\.git\objects\8f
+   [FILE] 1a61ce4a0149cd9411e827aaabc96676afdbf5 | Size: 1.99 KB    | Ext: (no extension) | Modified: 2026-07-10 19:32:57
+
+[FOLDER] .\.git\objects\a8
+   [FILE] cea2cebb46f754239215c205e81c952e59f8ad | Size: 243.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:32:57
+
+[FOLDER] .\.git\objects\dc
+   [FILE] dabf51a4cff45964310c84f220a8466037392c | Size: 536.00 B   | Ext: (no extension) | Modified: 2026-07-10 19:32:57
+
+[FOLDER] .\.git\objects\info
+   (empty folder)
+
+[FOLDER] .\.git\objects\pack
+   (empty folder)
+
+[FOLDER] .\.git\refs
+
+[FOLDER] .\.git\refs\heads
+   [FILE] main                                | Size: 41.00 B    | Ext: (no extension) | Modified: 2026-07-10 19:33:05
+
+[FOLDER] .\.git\refs\remotes
+
+[FOLDER] .\.git\refs\remotes\origin
+   [FILE] main                                | Size: 41.00 B    | Ext: (no extension) | Modified: 2026-07-10 19:33:11
+
+[FOLDER] .\.git\refs\tags
+   (empty folder)
+
+[FOLDER] .\test_subfolder
+   [FILE] sample.txt                          | Size: 16.00 B    | Ext: .txt       | Modified: 2026-07-10 19:35:44
 
 ======================================================================
 SUMMARY
-Total Folders Scanned : 0
-Total Files Found     : 1
-Total Size            : 5.02 KB
+Total Folders Scanned : 22
+Total Files Found     : 34
+Total Size            : 37.04 KB
