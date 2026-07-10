@@ -1,0 +1,13 @@
+Directory Scan Report
+Target Path : D:\Downloads\internship-task-directory-scanner
+Scanned On  : 2026-07-10 19:30:46
+======================================================================
+
+[FOLDER] .
+   [FILE] directory_scanner.py                | Size: 5.02 KB    | Ext: .py        | Modified: 2026-07-10 19:30:38
+
+======================================================================
+SUMMARY
+Total Folders Scanned : 0
+Total Files Found     : 1
+Total Size            : 5.02 KB
